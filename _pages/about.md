@@ -45,7 +45,7 @@ Ming Li<sup>#</sup>, **Yuanna Liu<sup>#</sup>(co-first author)**, Sami Jullien, 
 
 **Measuring Item Fairness in Next Basket Recommendation: A Reproducibility Study** <br>
 **Yuanna Liu**, Ming Li, Mozhdeh Ariannezhad, Masoud Mansoury, Mohammad Aliannejadi, Maarten de Rijke <br>
-**ECIR 2024**: The 46th European Conference on Information Retrieval
+**ECIR 2024**: The 46th European Conference on Information Retrieval <br>
 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-56066-8_18) [[code]](https://github.com/lynEcho/NBR-fairness)
 
 **Fuzzy Entity Alignment via Knowledge Embedding with Awareness of Uncertainty Measure** <br>
