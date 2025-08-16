@@ -23,8 +23,8 @@ I have been interested in recommender systems, with a particular focus on
 Publications
 ======
 
-**A Reproducibility Study of Product-side Fairness in Bundle Recommendation**
-[[pdf]](https://arxiv.org/pdf/2507.14352) [[code]](https://github.com/L2R-UET/Fairness_Bundle_RecSys25)
+**A Reproducibility Study of Product-side Fairness in Bundle Recommendation** [[pdf]](https://arxiv.org/pdf/2507.14352) [[code]](https://github.com/L2R-UET/Fairness_Bundle_RecSys25)
+
 Huy Son Nguyen<sup>#</sup>, **Yuanna Liu<sup>#</sup>(co-first author)**, Masoud Mansoury, Mohammad Aliannejadi, Alan Hanjalic, Maarten de Rijke       
 **RecSys 2025**: The 19th ACM Conference on Recommender Systems            
 
