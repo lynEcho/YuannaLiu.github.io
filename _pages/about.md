@@ -66,8 +66,8 @@ Teaching & Supervision
     [[website]](https://economic-fairness-ir.github.io/)     
   
 * Teaching assistant: 
-  - Recommender Systems, June, 2025, University of Amsterdam; project design, supervision, and guest lecture
-  - Recommender Systems, June, 2024, University of Amsterdam; project design, supervision, and guest lecture
+  - Recommender Systems, June, 2025, University of Amsterdam; guest lecture, project design & supervision
+  - Recommender Systems, June, 2024, University of Amsterdam; guest lecture, project design & supervision
   - Information Retrieval 1, Feb. - Mar., 2024, University of Amsterdam; lab, grading, exam designing
 
 
