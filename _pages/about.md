@@ -24,9 +24,9 @@ Publications
 ======
 
 **A Reproducibility Study of Product-side Fairness in Bundle Recommendation**
+[[pdf]](https://arxiv.org/pdf/2507.14352) [[code]](https://github.com/L2R-UET/Fairness_Bundle_RecSys25)
 Huy Son Nguyen<sup>#</sup>, **Yuanna Liu<sup>#</sup>(co-first author)**, Masoud Mansoury, Mohammad Aliannejadi, Alan Hanjalic, Maarten de Rijke       
 **RecSys 2025**: The 19th ACM Conference on Recommender Systems            
-[[pdf]](https://arxiv.org/pdf/2507.14352) [[code]](https://github.com/L2R-UET/Fairness_Bundle_RecSys25)
 
 **FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms**
 Chen Xu, Zhirui Deng, Clara Rus, Xiaopeng Ye, **Yuanna Liu**, Jun Xu, Zhicheng Dou, Ji-Rong Wen, Maarten de Rijke      
